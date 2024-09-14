@@ -37,3 +37,12 @@ Significant predictors include marital status, department prestige, and mentor p
 ### articles.csv: Data on doctoral candidates' publication records along with demographic and academic factors.
 Notebooks
 The code and analysis are provided in Jupyter notebooks for each section of the project. Detailed comments and explanations are included to make the code easily understandable and reproducible.
+
+## How to Run the Project
+## Clone the repository:
+git clone https://github.com/Venkyy97/Advanced-Modeling-Customer-Purchase-Prediction.git
+
+## Install the necessary packages:
+pip install -r requirements.txt
+
+Open the Jupyter notebooks and run the cells to reproduce the analysis and visualizations.
